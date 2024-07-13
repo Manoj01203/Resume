@@ -1,0 +1,39 @@
+.head {
+    border: 0;
+    margin: 0;
+}
+.nine {
+    float: right;
+    margin-right: 75px;
+    height: 150px;
+    width: 150px;
+}
+
+.two {
+    position: relative;
+    left: 75px;
+}
+.seven {
+    position: relative;
+    left: 75px;
+}
+.three {
+    position: relative;
+    left: 50px;
+}
+.four {
+    position: relative;
+    left: 75px;
+}
+.five {
+    position: relative;
+    left: 75px;
+}
+.six {
+    position: relative;
+    left: 75px;
+}
+.eight {
+    position: relative;
+    left: 75px;
+}
